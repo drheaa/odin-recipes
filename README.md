@@ -19,6 +19,9 @@ Through this project, I learned how to:
 - Link between pages using relative paths with the `<a>` tag
 - Set up a folder and file structure for a small website
 
+## Link Preview
+https://drheaa.github.io/odin-recipes/
+
 ## Personal Reflection
 
 Doing this project helped me see how far I’ve already come since starting The Odin Project. At first, HTML felt like just another markup language, but building something on my own made it feel real. It’s exciting to see a webpage come together from scratch — especially knowing it's the foundation for everything else I’ll build later.
